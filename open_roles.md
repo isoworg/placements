@@ -1,9 +1,9 @@
 # Alliants
 
 
-# Atos Consulting
+# Legal & General FE
 
-They are building a brand new dev team, with agile consultancy Equal Experts.
+### Building a 'labs' model - a brand new agile dev team, with agile consultancy Equal Experts.
 
 JAVA  
 BACKBASE
@@ -49,8 +49,23 @@ They can't be specific about the relocation package, but say it will depend on t
 - Another round of hiring - FE
 
 
-# Legal & General FE
-- They will be looking for 2 FE in two weeks, but I cannot send more than 4 people - so persuade me why I should send you. Brighton, £50k
+# Atos Consulting
+
+### Building a 'labs' model - They are moving towards having 'digital transformation' as their primary service.
+
+So, they need a team of 50-100 fullstack devs, with BUSINESS AWARENESS and CLIENT FACING experience.
+
+They will be predominantly node.js, Ruby and FE javascript (MVC).
+
+Have previously worked with New Bamboo to deliver these services, but want in-house capability.
+
+They want to build a LABS MODEL, with agile TDD teams of 2-15 ppl, working on 2-4 month MVPs. Possibly multiple projects at once, but usually side projects will be developing internal IP - i.e. building software to differentiate Atos Consulting's offering.
+
+London office, by default, with likelihood of travel to client sites - UK only - though that is reducing. Not expected to be in the office 5 days a week.
+
+Starting at £35k (up to £50k for the right person and background)
+
+Looking for someone with a depth and breadth of knowledge about a sector (any sector), especially creative, financial or corporate.
 
 
 # Ocado
