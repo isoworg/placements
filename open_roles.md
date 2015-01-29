@@ -30,11 +30,11 @@ Hove, East Sussex BN3 7PY
 
 You will initially pair program with EE agile consultancy, for the first 3 months.
 
-Process:  
-1. chat with recruiter (phone)
-1. chat with EE (phone)
-1. pair program exercise (live)
-1. L&G culture interview (live)
+Process:    
+1.  Chat with recruiter (phone)
+1.  Chat with EE (phone)
+1.  Pair program exercise (live)
+1.  L&G culture interview (live)
 
 They can't be specific about the relocation package, but say it will depend on the person and other factors.
 
