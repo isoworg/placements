@@ -11,12 +11,12 @@ BACKBASE
 New Team:
 * 3 UX
 * 5 devs
-* - 1 lead
-* - 3/4 FE <<< these are the roles that Makers will fill
-* - 1 BE
+  * 1 lead
+  * 3/4 FE <<< these are the roles that Makers will fill
+  * 1 BE
 * 2 tech
-* - 1 environment
-* - 1 dev ops
+  * 1 environment
+  * 1 dev ops
 * 2 QA
 * 2 scrum masters
 
