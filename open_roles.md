@@ -20,12 +20,12 @@ New Team:
 * 2 QA
 * 2 scrum masters
 
-PERMANENT £50,000 pa  +  relocation package
-Hove (Brighton)  +  plus some remote working
+PERMANENT £50,000 pa  +  relocation package.
+Hove (Brighton)  +  plus some remote working.
 
-Legal & General
-City Park
-The Droveway
+Legal & General,
+City Park,
+The Droveway,
 Hove, East Sussex BN3 7PY
 
 You will initially pair program with EE agile consultancy, for the first 3 months.
