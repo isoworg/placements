@@ -5,7 +5,7 @@
 
 They are building a brand new dev team, with agile consultancy Equal Experts.
 
-JAVA
+JAVA  
 BACKBASE
 
 New Team:
@@ -20,17 +20,17 @@ New Team:
 * 2 QA
 * 2 scrum masters
 
-PERMANENT £50,000 pa  +  relocation package.
+PERMANENT £50,000 pa  +  relocation package.  
 Hove (Brighton)  +  plus some remote working.
 
-Legal & General,
-City Park,
-The Droveway,
+Legal & General,  
+City Park,  
+The Droveway,  
 Hove, East Sussex BN3 7PY
 
 You will initially pair program with EE agile consultancy, for the first 3 months.
 
-Process: 
+Process:  
 1. chat with recruiter (phone)
 1. chat with EE (phone)
 1. pair program exercise (live)
