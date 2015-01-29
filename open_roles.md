@@ -9,6 +9,7 @@ JAVA
 BACKBASE
 
 New Team:
+
 * 3 UX
 * 5 devs
   * 1 lead
@@ -30,7 +31,8 @@ Hove, East Sussex BN3 7PY
 
 You will initially pair program with EE agile consultancy, for the first 3 months.
 
-Process:    
+Process:
+
 1.  Chat with recruiter (phone)
 1.  Chat with EE (phone)
 1.  Pair program exercise (live)
