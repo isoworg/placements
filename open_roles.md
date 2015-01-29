@@ -3,7 +3,7 @@
 
 # Legal & General FE
 
-### Building a 'labs' model - a brand new agile dev team, with agile consultancy Equal Experts.
+#### Building a 'labs' model - a brand new agile dev team, with agile consultancy Equal Experts.
 
 JAVA  
 BACKBASE
@@ -51,7 +51,7 @@ They can't be specific about the relocation package, but say it will depend on t
 
 # Atos Consulting
 
-### Building a 'labs' model - They are moving towards having 'digital transformation' as their primary service.
+#### Building a 'labs' model - They are moving towards having 'digital transformation' as their primary service.
 
 So, they need a team of 50-100 fullstack devs, with BUSINESS AWARENESS and CLIENT FACING experience.
 
